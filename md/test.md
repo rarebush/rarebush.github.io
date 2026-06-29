@@ -1,0 +1,85 @@
+
+# Expanded Stu & Adi Responsibility Matrix
+ 
+## Admin and HR
+ 
+| Area | Stu | Adi |
+|------|-----|-----|
+| Team check-ins | Meet fortnightly with designers to: (1) Identify pain points between design/product/roadmap, (2) Address capacity concerns, (3) Discuss career and professional development, (4) Review goals and Workday objectives | Meet fortnightly with designers to: (1) Identify pain points in design processes, (2) Improve design processes, (3) Provide mentorship on design methodologies |
+| Career development | Enable professional development across team (approve Workday changes, training, and courses with input from Apoorva) | Share relevant training opportunities with designers; provide peer mentorship and support |
+| Performance reviews | Lead formal performance reviews with input from Adi for designers on Research Exchange products | Provide structured input on performance of designers working on Research Exchange products |
+| Team engagement | Present and discuss Glint survey findings with team | N/A |
+| Hiring & onboarding | Lead hiring process for permanent roles; provide final approval on contractors | Support hiring through portfolio reviews and technical interviews; develop design process onboarding materials |
+| Budget management | Manage team budget; approve expenditures; advocate for resources | Track and report on project-specific resource needs |
+ 
+## Product Feature Prioritization and Design Allocation
+ 
+| Area | Stu | Adi |
+|------|-----|-----|
+| Personnel assignment | Appoint design leads to workstreams/platforms; allocate designers as needed | Maintain visibility of design commitments for Research Exchange products; escalate capacity concerns to Stu |
+| Intake template/process | Create and approve design intake template for research publishing products; align with Dino's team where possible | Support development of standardized intake process/template |
+| Intake | Facilitate design intake with design leads (incorporating input from leads and product management) | Support design intake for Research Exchange products |
+| PI Planning | Oversee PI planning presentations with design leads; ensure review with product management and design leads (with leads owning where able) | Support PI planning presentations for Research Exchange products; assist with delivery when necessary |
+| Cross-product prioritization | Resolve conflicts in design resource allocation across product lines | Identify potential conflicts within Research Exchange products |
+| Roadmap planning | Collaborate with product leadership on long-term roadmap planning and design implications | Align Research Exchange design work with broader roadmap planning |
+| Design capacity forecasting | Maintain high-level capacity planning for entire team | Track detailed capacity for Research Exchange design work |
+ 
+## Design Excellence & Operations
+ 
+| Area | Stu | Adi |
+|------|-----|-----|
+| Regular design reviews | Support Adi as needed | Plan and facilitate design reviews across teams to elevate design excellence |
+| Design operations process creation | Review and approve design operations processes | Develop and document design operations processes and best practices |
+| Design operations process implementation | Support implementation of design ops best practices across teams | Maintain and educate teams on design operations and best practices |
+| Design quality metrics | Approve design quality metrics framework | Develop and maintain design heuristics and quality metrics for objective evaluation |
+| Design tools | Approve tool investments and licensing decisions | Research, recommend, and pilot next-gen design tools including AI-assisted capabilities |
+| Documentation standards | Approve documentation standards | Create and maintain documentation templates and standards |
+| Knowledge management | Ensure effective knowledge management across design teams | Implement knowledge sharing systems and practices |
+| Conflict resolution | Step in to support or further elevate unresolved issues when escalated | Identify and address conflicts between product designers, product managers, and developers; escalate to Stu when unable to resolve |
+ 
+## Design Systems
+ 
+| Area | Stu | Adi |
+|------|-----|-----|
+| Design system strategy | Approve overall design system strategy and roadmap | Define and document design system strategy and roadmap |
+| Design system governance | Align design system governance with organizational needs | Establish and maintain governance model for design system components |
+| Design system integration | Support alignment of design system with product strategy | Lead standardization efforts across product platforms |
+| Technology alignment | Facilitate executive alignment for design system technology decisions | Coordinate with technology leadership to align design systems with technical architecture |
+| Component library | Review and approve component library architecture | Define component library structure and development priorities |
+| Design-to-development handoff | Support process improvements between design and development | Establish and refine handoff processes between design and development |
+| Design system adoption | Support design system adoption at leadership level | Promote design system adoption across teams |
+ 
+## Stakeholder Management & Communication
+ 
+| Area | Stu | Adi |
+|------|-----|-----|
+| Executive communication | Present design strategy and updates to executive team | Provide material for executive updates on design operations and systems |
+| Cross-functional alignment | Align design strategy with product and technology strategies | Ensure design operations align with development and product processes |
+| Stakeholder management | Manage relationships with key stakeholders, specifically including marketing and branding teams | Manage relationships with design system stakeholders |
+| Design advocacy | Advocate for design thinking at strategic level | Advocate for design excellence and best practices |
+| User advocacy | Ensure user perspective is represented in product decisions | Ensure design systems support best practices in user experience |
+| External representation | Represent the design organization externally in collaboration with Apoorva and Dino | Represent design systems and operations externally when appropriate |
+| Community engagement | Support design community engagement | Build internal design community through reviews and knowledge sharing |
+ 
+## Research & Innovation
+ 
+| Area | Stu | Adi |
+|------|-----|-----|
+| UX research coordination | Maintain visibility of product roadmaps to identify opportunities for research support; coordinate with design leads and UX research team; engage with UX strategists to stay aligned and identify opportunities for cross-workstream research and collaboration | Coordinate with UX research team for design system validation and Research Exchange insights |
+| Innovation facilitation | Support innovation initiatives across team | Explore and pilot innovative approaches to design operations |
+| AI integration | Support buy-in from senior leadership and sign off on AI integration strategy | Define strategy for AI integration in design processes; research and pilot AI-assisted design tools and approaches |
+| Emerging technology | Identify implications of emerging technology for design strategy | Explore implications of emerging technology for design systems |
+| Industry trends | Track and share relevant industry trends | Track and share design system and operations trends |
+| Workshop facilitation | Support UX Strategy team in strategic design sessions; facilitate operational sessions | Facilitate design system and operations workshops |
+ 
+## Product-Specific Responsibilities
+ 
+| Area | Stu | Adi |
+|------|-----|-----|
+| Product vision | Align design vision with product strategy; regularly engage with UX Strategy team | Maintain design vision for Research Exchange products |
+| Cross-product experience | Oversee cross-product user experience | Lead Research Exchange cross-product user experience |
+| Strategic initiatives | Support execution and collaborate with UX Strategists; involve design leads when their workstreams are impacted | Provide hands-on design for Research Exchange features; collaborate with UX Strategy team when relevant |
+| UX oversight | Maintain UX oversight across all products | Maintain direct UX oversight for Research Exchange products |
+| Design reviews | Conduct periodic reviews of strategic products | Lead regular design reviews for Research Exchange products |
+| Design solutions | Review complex design solutions | Develop design solutions for complex Research Exchange features |
+| Success metrics | Define success metrics for design across products | Define success metrics for Research Exchange design |
